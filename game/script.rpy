@@ -24,7 +24,7 @@ transform flip_right:
 
 label start:
 
-    play music bg_1
+    play music theme_b
 
     show lain_neutral at center
 
@@ -43,6 +43,6 @@ label start:
     lain "...Well, maybe Emma hasnt made us proper sprites either..."
     arthur"Never mind that, Your right. lets give her time and we will look beautiful!!11!"
 
-    # This ends the game.
+    # end the game or something idk
 
     return

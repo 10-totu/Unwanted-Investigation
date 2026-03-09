@@ -350,7 +350,7 @@ style navigation_button_text:
 ##
 ## https://www.renpy.org/doc/html/screen_special.html#main-menu
 
-screen main_menu():
+screen main_menu_old():
 
     ## This ensures that any other menu screen is replaced.
     tag menu
